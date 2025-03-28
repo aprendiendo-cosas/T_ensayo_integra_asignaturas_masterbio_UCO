@@ -8,8 +8,6 @@
 
 ![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_ensayo_integra_asignaturas_gesteco_ccaa/main/imagenes/portada.png)
 
-
-
 ## Objetivos 
 
 Las ciencias ambientales se caracterizan, entre otras cosas, por su carácter holísitco y generalista. Saber un poco de muchas cosas es como ser experto en generalidades. Esta característica es, en mi opinión, una especie de superpoder oculto. Es un superpoder porque los generalistas tienen una capacidad superior de entender bien los problemas complejos a los que tenemos que enfrentarnos. Con esto no quiero decir que las habilidades de especialización no sean útiles, sino que en un mundo como el actual, necesitamos formar profesionales generalistas. Además, es un rasgo oculto porque la sociedad no está aún preparada para asumir que necesitamos más generalistas. Esto es mi opinión, claro. 
@@ -24,6 +22,7 @@ De forma más específica, los objetivos de esta tarea son:
 + Fomentar el pensamiento abstracto y la capacidad de generalización.
 
 Este guión contiene las instrucciones que los estudiantes individuales y los grupos deberán de seguir para completar la asignación. 
+
 
 
 ## Enunciado del problema a abordar
@@ -41,11 +40,15 @@ El resultado de este trabajo deberá de ser un texto con los siguientes contenid
 
 La extensión del texto queda a vuestro criterio.
 
+
+
 ## Forma y fecha de entrega 
 
 Esta actividad se entregará directamente sin que haya plazos parciales. Estaré encantado de contestar vuestras dudas por correo y por Telegram, pero no habrá más información de la que se muestra aquí. Si queréis, podéis contactar con otros profesores para pedirles colaboración.
 
 La fecha de entrega es el día 16 de junio hasta las 23:59. Haced las entregas [aquí](https://www.turnitin.com/t_submit.asp?aid=167324839&lang=en_us). 
+
+
 
 ## Criterios de calificación (rúbrica)
 
