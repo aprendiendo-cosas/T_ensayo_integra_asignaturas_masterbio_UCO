@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Difícil de cuantificar en este caso puesto que se trata de una tarea en la que hay que reflexionar un poco...
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_retos_socioecologicos_gesteco_ccaa/main/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_ensayo_integra_asignaturas_gesteco_ccaa/main/imagenes/portada.png)
 
 
 
