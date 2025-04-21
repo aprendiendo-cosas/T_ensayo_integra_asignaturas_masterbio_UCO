@@ -2,9 +2,9 @@
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #8D26F5; border-radius: 5px; padding: 5px; font-weight: bold;"> Tarea</span>
 > + **_Versión_**: 2024-2025
-> + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
+> + **_Asignatura (titulación)_**: Interacciones Ecológicas y Especies Invasoras (master biodiversidad UCO)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **Duración**: Difícil de cuantificar en este caso puesto que se trata de una tarea en la que hay que reflexionar un poco...
+> + **Duración**: Difícil de cuantificar en este caso puesto que se trata de una tarea en la que hay que reflexionar un poco. Diría que unas 3 horas como máximo.
 
 ![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_ensayo_integra_asignaturas_gesteco_ccaa/main/imagenes/portada.png)
 
