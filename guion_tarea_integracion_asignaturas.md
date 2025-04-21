@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Difícil de cuantificar en este caso puesto que se trata de una tarea en la que hay que reflexionar un poco. Diría que unas 3 horas como máximo.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_ensayo_integra_asignaturas_gesteco_ccaa/refs/tags/2024_2025/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/T_ensayo_integra_asignaturas_masterbio_UCO/refs/tags/2024-2025/imagenes/portada.png)
 
 ## Objetivos 
 
@@ -20,8 +20,6 @@ De forma más específica, los objetivos de esta tarea son:
 + Entrenar la capacidad de "cambiar de gafas". Es decir, usar la mirada de dos asignaturas diferentes ante una misma realidad. O dicho de forma más rigurosa: mejorar la capacidad de integración conceptual entre disciplinas.
 + Mejorar la capacidad de síntesis de los estudiantes. Para realizar una actividad docente válida para dos asignaturas, será necesario generalizar y resumir contenidos de cada una de ellas.
 + Fomentar el pensamiento abstracto y la capacidad de generalización.
-
-
 
 
 
@@ -87,7 +85,7 @@ Para calificar este trabajo (que cuenta un 30% de la nota final) usaré esta rú
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/T_ensayo_integra_asignaturas_masterbio_UCO/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/T_ensayo_integra_asignaturas_masterbio_UCO/archive/refs/tags/2024-2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/T_ensayo_integra_asignaturas_masterbio_UCO/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
